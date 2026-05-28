@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  🎓 M.S. Computer Engineering — <strong>NC State University</strong><br/>
+  🎓 M.S. Computer Engineering — <strong>North Carolina State University</strong><br/>
   💡 Specialized in <strong>bare-metal firmware</strong>, <strong>RTOS</strong>, and <strong>hardware-software integration</strong><br/>
   📡 Experienced with <strong>IoT protocols</strong>, <strong>embedded Linux</strong>, and <strong>real-time systems</strong><br/>
   📍 Raleigh, NC &nbsp;|&nbsp; Open to Relocation &nbsp;|&nbsp; Open to Remote
