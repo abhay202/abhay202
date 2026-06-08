@@ -1,3 +1,16 @@
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=abhay202&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=abhay202&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=abhay202&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=abhay202&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+
 <h1 align="center">Hi, I'm Abhay Sengar 👋</h1>
 
 <p align="center">
@@ -52,16 +65,11 @@
 
 ## 📊 GitHub Stats
 
-<div align="left">
-<!--![](https://github-readme-stats.shion.dev/api?username=abhay202&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=abhay202&theme=dark&hide_border=false)<br/> -->
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=abhay202&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="left">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=abhay202&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</p>
 
 ---
-<!--  [![](https://komarev.com/ghpvc/?username=abhay202&icon=0&color=0)](https://visitcount.itsvg.in) 
 [![Profile Views](https://komarev.com/ghpvc/?username=abhay202&label=Profile+Views&color=14BDAC&style=for-the-badge)](https://github.com/abhay202)
--->
-
-</div>
 
 
